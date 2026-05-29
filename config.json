@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervonnect",
+        "uuid": 328224,
+        "checksum": "tf7sb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
